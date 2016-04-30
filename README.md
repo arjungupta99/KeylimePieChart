@@ -1,4 +1,4 @@
-KeylimePieChart 
+Key lime Pie Chart 
 =============
 
 #### Pie chart with connected labels and auto alignment
